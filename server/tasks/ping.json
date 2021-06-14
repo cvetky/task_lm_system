@@ -1,0 +1,1 @@
+{"timeOut":"180","parameters":[{"typeDescription":"string","name":"host","hidden":"false","type":"s"},{"typeDescription":"integer","name":"packet_size","hidden":"false","type":"i"},{"type":"i","hidden":"false","typeDescription":"integer","name":"count"}],"name":"ping","commandTemplate":"ping {host} {packet_size} {count}","environmentVariables":[]}

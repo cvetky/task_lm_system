@@ -1,0 +1,1 @@
+{"parameters":[{"type":"s","typeDescription":"string","hidden":"false","name":"text"}],"commandTemplate":"banner {text}","timeOut":"10","environmentVariables":[],"name":"banner"}

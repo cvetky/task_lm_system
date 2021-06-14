@@ -1,0 +1,1 @@
+{"timeOut":"60","name":"python","commandTemplate":"python -c {script} {args}","environmentVariables":[],"parameters":[{"name":"script","type":"s","typeDescription":"string","hidden":"false"},{"name":"args","hidden":"false","typeDescription":"string","type":"s"}]}

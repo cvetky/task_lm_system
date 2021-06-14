@@ -1,0 +1,1 @@
+{"name":"printenv","parameters":[],"commandTemplate":"printenv","timeOut":"30","environmentVariables":["TEST_VAR_TO_APPEAR"]}

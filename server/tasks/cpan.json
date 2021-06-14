@@ -1,0 +1,1 @@
+{"parameters":[{"type":"s","name":"module","hidden":"false","typeDescription":"string"}],"name":"cpan","commandTemplate":"cpan {module}","timeOut":"30","environmentVariables":[]}

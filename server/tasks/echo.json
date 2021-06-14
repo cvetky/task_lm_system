@@ -1,0 +1,1 @@
+{"parameters":[{"typeDescription":"string","hidden":"false","type":"s","name":"text"}],"commandTemplate":"echo {text}","name":"echo","timeOut":"5","environmentVariables":[]}

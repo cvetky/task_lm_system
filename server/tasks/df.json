@@ -1,0 +1,1 @@
+{"commandTemplate":"df -h {dir}","parameters":[{"name":"dir","hidden":"false","typeDescription":"string","type":"s"}],"environmentVariables":[],"timeOut":"5","name":"df"}

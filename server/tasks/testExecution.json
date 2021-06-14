@@ -1,0 +1,1 @@
+{"name":"testExecution","environmentVariables":["TEST_PATH","TEST_NUMBER"],"commandTemplate":"testExecution --username {user} -p {pwd}","parameters":[{"typeDescription":"string","hidden":"false","type":"s","name":"user"},{"hidden":"true","typeDescription":"string","type":"s","name":"pwd"}],"timeOut":"360"}

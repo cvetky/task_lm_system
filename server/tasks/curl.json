@@ -1,0 +1,1 @@
+{"name":"curl","timeOut":"180","environmentVariables":[],"parameters":[{"name":"output","type":"s","typeDescription":"string","hidden":"false"},{"name":"url","typeDescription":"string","hidden":"false","type":"s"}],"commandTemplate":"curl -o {output} {url}"}

@@ -1,0 +1,1 @@
+{"name":"stat","timeOut":"10","parameters":[{"type":"s","name":"file_path","typeDescription":"string","hidden":"false"}],"environmentVariables":[],"commandTemplate":"stat {file_path}"}

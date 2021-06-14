@@ -1,0 +1,1 @@
+{"name":"cat","timeOut":"10","parameters":[{"type":"s","typeDescription":"string","hidden":"false","name":"file"}],"environmentVariables":[],"commandTemplate":"cat {file}"}

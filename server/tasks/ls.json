@@ -1,0 +1,1 @@
+{"name":"ls","commandTemplate":"ls {dir}","parameters":[{"hidden":"false","name":"dir","typeDescription":"string","type":"s"}],"environmentVariables":[],"timeOut":"20"}

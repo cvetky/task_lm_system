@@ -1,0 +1,1 @@
+{"environmentVariables":[],"parameters":[{"type":"s","hidden":"false","name":"host","typeDescription":"string"}],"timeOut":"300","name":"tracert","commandTemplate":"tracert {host}"}
